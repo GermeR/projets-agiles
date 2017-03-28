@@ -68,6 +68,21 @@ MORE THAN JUST CYCLING
 
 # Description
 
-
 Proposer du cycling a domicile
 
+# Arts'N'Bee
+Site de mise en relation d'artistes et d'amateurs d'art
+
+## Équipe
+Griette Martin
+Germe Robin
+Halipre Remi
+Martello Arthur
+De Môraes Nicolas
+Plaisance Baptiste
+Grisolet Léa
+
+## Resources
+
+* git serveur + js : https://github.com/GermeR/ArtsNBee.git
+* git android : 
